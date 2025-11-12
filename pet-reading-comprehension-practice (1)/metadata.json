@@ -1,0 +1,5 @@
+{
+  "name": "PET Reading Comprehension Practice",
+  "description": "An interactive web application to practice for the B1 Preliminary (PET) English reading test. It features three sample texts with fill-in-the-gap exercises, answer checking, and score tracking to help users improve their reading skills.",
+  "requestFramePermissions": []
+}
